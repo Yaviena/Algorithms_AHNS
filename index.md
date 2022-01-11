@@ -1,24 +1,25 @@
-## Welcome to my GitHub Pages
+## The report of laboratory of algorithms
 
-Here you can go into my documents as an exam work for "The algorithms and the computing complex".
+Here are my documents as an exam work for "The algorithms and the computing complex" lead by dr hab. Filip Rudziński.
 
-This page leads to a joint report at laboratory of algorithms.
+This report is a joint of three separate laboratories of algorithms at AHNS in Radom.
 
-The report is [here](https://github.com/Yaviena/Algorithms_report_AHNS) to download. The very final version is always the latest.
+You can also download the report [here](https://github.com/Yaviena/Algorithms_report_AHNS). The very final version is always the latest.
 
 
-## Files of laboratory
+## Files of laboratories
 
 Below you can find **3 separate projects** of the laboratory.
 - [x]  [Laboratory nr 1](https://github.com/Yaviena/Algorithms_Lab_1_Matrix_operations_Magda_Szafranska) - operations on arrays
-- [ ]  Laboratory nr 2 - graphs of computing complex functions
+- [x]  [Laboratory nr 2](https://github.com/Yaviena/Algorithms_Lab_2_Sorting_diagrams_Magda_Szafranska) - graphs of computing complex functions
 - [ ]  Laboratory nr 3 - 
 
-All files of projects are available [in my GitHub repos](https://github.com/Yaviena).
+All files of projects are also available [in my GitHub repos](https://github.com/Yaviena).
 
 
 ## Copyright
 
-This is a class at Akademia Handlowa Nauk Społecznych (AHNS, prevoiusly WSH) in Radom, lead by dr hab. Filip Rudziński.
+This is a class at Akademia Handlowa Nauk Społecznych (AHNS, prevoiusly WSH) in Radom,
+lead by dr hab. Filip Rudziński.
 
-All copyright by © Magdalena Szafrańska (index nr: 18345)
+All copyright by the author: © Magdalena Szafrańska (index nr: 18345)
