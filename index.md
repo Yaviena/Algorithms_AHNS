@@ -12,7 +12,7 @@ You can also download the report [here](https://github.com/Yaviena/Algorithms_re
 Below you can find **3 separate projects** of the laboratory.
 - [x]  [Laboratory nr 1](https://github.com/Yaviena/Algorithms_Lab_1_Matrix_operations_Magda_Szafranska) - operations on arrays
 - [x]  [Laboratory nr 2](https://github.com/Yaviena/Algorithms_Lab_2_Sorting_diagrams_Magda_Szafranska) - graphs of computing complex functions
-- [ ]  Laboratory nr 3 - 
+- [ ]  [Laboratory nr 3](https://github.com/Yaviena/Algorithms_Lab_3_Magda_Szafranska) - the data structures (inked lists)
 
 All files of projects are also available [in my GitHub repos](https://github.com/Yaviena).
 
