@@ -2,7 +2,7 @@
 
 Here are my documents as an exam work for "The algorithms and the computing complex",<br />leading by dr hab. Filip Rudziński.
 
-This report is a joint of three separate laboratories of algorithms at AHNS in Radom.
+This report is a joint of three separate laboratories.
 
 
 ## **Files of laboratories**
@@ -13,6 +13,7 @@ Below you can find **separates projects** of each of 3 laboratories.
 1. Laboratory nr 3:
   - [part I](https://github.com/Yaviena/Algorithms_Lab_3_part_1_Magda_Szafranska) - one-way linked lists
   - [part II](https://github.com/Yaviena/Algorithms_Lab_3_part_2_Magda_Szafranska) - two-way linked lists
+  - <a href="https://github.com/Yaviena/Algorithms_Lab_3_part_2_Magda_Szafranska" target="_blank">part II</a>
 
 The very final version is always the latest one.
 
@@ -22,6 +23,7 @@ All files of projects are also available [in my GitHub repos](https://github.com
 
 ## **Copyright**
 
-All copyright by the author:<br />© Magdalena Szafrańska (index nr: 18345)<br />
-Akademia Handlowa Nauk Społecznych (AHNS, prevoiusly WSH) in Radom<br />
+All copyright by the author:<br /><br />
+© Magdalena Szafrańska (index nr: 18345)<br />
+*Akademia Handlowa Nauk Społecznych (AHNS, prevoiusly WSH) in Radom*<br />
 *Algorithms and computational complexity*, leading by dr hab. Filip Rudziński.
