@@ -23,6 +23,6 @@ All files of projects are also available <a href="https://github.com/Yaviena" ta
 All copyright by the author:<br />
 **Magdalena Szafrańska**<br />
 **index nr: 18345**<br />
-Computer Science at Radom Academy of Economics (AHNS, prevoiusly WSH)<br />
+Computer Science at Radom Academy of Economics (AHNS, previously WSH)<br />
 the college level: II, the term: III<br />
 course: *Algorithms and computational complexity*, leading by dr hab. Filip Rudziński.
