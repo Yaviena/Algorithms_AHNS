@@ -1,6 +1,6 @@
 ## **The report of the laboratory of algorithms**
 
-Here are my documents as an exam work for "The algorithms and the computing complex",<br />leading by dr hab. Filip Rudziński.
+Here are my documents as an exam work for "Algorithms and computational complexity",<br />leading by dr hab. Filip Rudziński.
 
 This report is a joint of three separate laboratories.
 
@@ -23,6 +23,6 @@ All files of projects are also available <a href="https://github.com/Yaviena" ta
 All copyright by the author:<br />
 **Magdalena Szafrańska**<br />
 **index nr: 18345**<br />
-Computer Science at Akademia Handlowa Nauk Społecznych (AHNS, prevoiusly WSH) in Radom<br />
+Computer Science at Radom Academy of Economics (AHNS, prevoiusly WSH)<br />
 the college level: II, the term: III<br />
 course: *Algorithms and computational complexity*, leading by dr hab. Filip Rudziński.
